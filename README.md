@@ -1,4 +1,4 @@
-# Flutter Glow package
+# Matrix Digital Rain package
 
 ##### Easy to use flutter matrix digital rain widget.
 
